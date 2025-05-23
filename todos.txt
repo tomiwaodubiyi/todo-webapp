@@ -1,0 +1,4 @@
+Complete the todo webapp
+Deploy the app to the cloud
+Commit your changes
+Push to Git
